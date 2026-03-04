@@ -1,0 +1,7 @@
+Origin: Gray
+Label: GrayRepo
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Gray's personal repo
