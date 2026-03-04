@@ -1,0 +1,10 @@
+Package: com.gray.mytweak
+Name: MyTweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: My first Sileo tweak
+Maintainer: Gray <gray@example.com>
+Author: Gray
+Section: Tweaks
+Filename: debs/mytweak.deb
+Size: 451584
